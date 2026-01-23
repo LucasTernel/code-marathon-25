@@ -42,7 +42,7 @@
 
         <div id="article-img">
             <div class="image-container">
-                <img src="{{ asset(path: $article->image) }}" alt="{{ $article->titre }}" style="max-width:300px;">
+                <img src="{{ asset(path: $article->image) }}" alt="{{ $article->titre }}" style="max-width:300px;"></img>
             </div>
 
             @if($article->media)
@@ -68,7 +68,7 @@
         <div id="article-infos">
 
             <div id="auteur-article">
-                <p class="carte-auteur"><strong><a href="{{ route('profil.user', $article->user_id) }}">
+                <p class="carte-auteur"><strong><a href="{{ route('profil.user', $article->user_id) }}"></a>
                 {{ $article->editeur->name }}
             <</strong></p>
                 <p class="carte-auteur"><strong>{{ $article->nb_vues }} vues</strong></p>
