@@ -1,0 +1,44 @@
+<x-layout.app :title="'Contact'">
+    <style>
+        main{
+            background-color: #fff;
+        }
+        footer.footer-section{
+            margin-top: 0;
+            border-top : 1px solid #777777a8;
+        }
+    </style>
+<div class = "main-contact">
+    <div class="contact-wrapper">
+        <div class="contact-gauche">
+            <img src="{{ Vite::asset('resources/images/icon_soleil.webp') }}" alt="Soleil" class="contact-soleil">
+            <h1 class="contact-title">Besoin d'informations ?</h1>
+            <p class="contact-soustitle">Contactez-nous ! Notre équipe vous répond rapidement </p>
+        </div>
+
+    <form method="POST" action="#" class="form-contact">
+        <div class="form-group">
+            <label for="name">Nom :</label>
+            <input type="text" id="name" name="name" placeholder="Votre nom">
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email :</label>
+            <input type="email" id="email" name="email" placeholder="Votre email">
+        </div>
+
+        <div class="form-group">
+            <label for="message">Message :</label>
+            <textarea id="message" name="message" placeholder="Votre Message"></textarea>
+        </div>
+        
+        <div class="rgpd-consent">
+            <input type="checkbox" id="rgpd" name="rgpd" required>
+            <label for="rgpd">J'accepte que mes données soient utilisées dans le cadre de ma demande de contact conformément à la <a href="{{ route('home')}}">politique de confidentialité</a>.</label>
+        </div>
+
+            <button type="submit" class="btn-submit">Envoyer</button>
+        </form>
+    </div>
+</div>
+</x-layout.app>
