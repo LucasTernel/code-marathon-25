@@ -8,7 +8,7 @@
 
 ## 🎯 Contexte du Projet
 
-Ce projet a été réalisé dans le cadre d’un **Hackathon / Marathon Web de 36 heures**.
+Ce projet a été réalisé dans le cadre du **Marathon Web de 36 heures**.
 Le défi : concevoir et développer une application complète en équipe de **7 étudiants**, en mêlant développement backend/frontend, gestion de projet et création de contenu, le tout sous une forte contrainte de temps.
 
 **Objectifs atteints :**
@@ -78,9 +78,13 @@ Rendez-vous sur `http://localhost:8000` !
 ## 👥 L'Équipe
 
 Projet réalisé par une équipe de 7 étudiants passionnés, incluant :
-* **[Ton Nom]** - *Développeur Backend / Full Stack*
-* *[Nom des autres si tu veux]* - *[Rôle]*
-* ...
+* **Shun Debrez** - *Développeur Backend & Chef de Projet* [BUT INFORMATIQUE]
+* **Lou Debeare** - *Développeuse Backend* [BUT INFORMATIQUE]
+* **Romain Thibaut** - *Développeur Backend* [BUT INFORMATIQUE]
+* **Lucas Ternel** - *Développeur Front-End* [BUT MMI]
+* **Clément Desbuisson** - *Développeur Front-End* [BUT MMI]
+* **Léonie Dahin** - *Développeuse Front-End & Direction Artistique* [BUT MMI]
+* **Laurine Bross** - *Communication, Direction Artistique & Anglais* [BUT MMI]
 
 ---
 
