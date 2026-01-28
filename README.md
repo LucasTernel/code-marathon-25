@@ -81,8 +81,8 @@ Projet réalisé par une équipe de 7 étudiants passionnés, incluant :
 * **Shun Debrez** - *Développeur Backend & Chef de Projet* [BUT INFORMATIQUE]
 * **Lou Debeare** - *Développeuse Backend* [BUT INFORMATIQUE]
 * **Romain Thibaut** - *Développeur Backend* [BUT INFORMATIQUE]
-* **Lucas Ternel** - *Développeur Front-End* [BUT MMI]
-* **Clément Desbuisson** - *Développeur Front-End* [BUT MMI]
+* **Lucas Ternel** - *Développeur Front-End + Maquettage site Web* [BUT MMI]
+* **Clément Desbuisson** - *Développeur Front-End + Maquettage site Web* [BUT MMI]
 * **Léonie Dahin** - *Développeuse Front-End & Direction Artistique* [BUT MMI]
 * **Laurine Bross** - *Communication, Direction Artistique & Anglais* [BUT MMI]
 
